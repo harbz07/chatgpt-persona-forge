@@ -1,0 +1,5 @@
+{
+  "name": "ChatGPT Persona Forge",
+  "description": "A tool to define and manage personas for ChatGPT. Select a persona, copy the details, and provide it as context to ChatGPT to have it adopt a specific character for role-playing, customer support, or creative writing.",
+  "requestFramePermissions": []
+}
